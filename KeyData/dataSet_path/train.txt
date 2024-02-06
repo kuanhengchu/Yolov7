@@ -1,0 +1,9 @@
+c:/yolov7/KeyData/images/2B9860_plate.jpg
+c:/yolov7/KeyData/images/2D6130_plate.jpg
+c:/yolov7/KeyData/images/2E5575_plate.jpg
+c:/yolov7/KeyData/images/2R1283_plate.jpg
+c:/yolov7/KeyData/images/3C8952_plate.jpg
+c:/yolov7/KeyData/images/3M6605_plate.jpg
+c:/yolov7/KeyData/images/3T1867_plate.jpg
+c:/yolov7/KeyData/images/3U8696_plate.jpg
+c:/yolov7/KeyData/images/5A1471_plate.jpg
